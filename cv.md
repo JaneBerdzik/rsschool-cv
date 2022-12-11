@@ -4,7 +4,7 @@
 #### _janeberdik@gmail.com_
 #### <https://www.facebook.com/janeberdzik/>/
 #### Date of birth: 04.01.1981
-#### Place of Location: Lomza, Poland/
+#### Place of Location: Lomza, Poland
 * ### Education
 > * ##### Belarusian State Economic University 08.1998-06.2003
 * ### Work experience
