@@ -1,6 +1,6 @@
 #### CV
 # **Eugenia Berdzik**
-![](https://scontent.fwaw3-2.fna.fbcdn.net/v/t39.30808-6/295757525_149408024357413_6210646053160726255_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=uz6RRo1uzCEAX_xHo0B&_nc_ht=scontent.fwaw3-2.fna&oh=00_AfCRYQXc-psQBgjecgngC46ny6k9y32FGdJErYzJDoqTcQ&oe=6397E9E5)
+![](https://scontent.fwaw3-1.fna.fbcdn.net/v/t39.30808-6/295959175_149407541024128_6187818501652067482_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=9g42XRzOXdgAX8ZN-c4&_nc_ht=scontent.fwaw3-1.fna&oh=00_AfDQy4cTxJUXDQsvm7GEyOMf0F28XuBpO4zk11DvvIDU5A&oe=6397C650)
 #### _janeberdik@gmail.com_
 #### <https://www.facebook.com/janeberdzik/>/
 #### Date of birth: 04.01.1981
