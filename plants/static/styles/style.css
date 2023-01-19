@@ -1,3 +1,31 @@
+@font-face {
+    font-family: "Inika-Bold";  
+    src: url("static/fonts/Inika-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+      }
+
+@font-face {
+    font-family: "Inika-Regular";  
+    src: url("static/fonts/Inika-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+       }
+
+@font-face {
+    font-family: "Inter-Bold";  
+    src: url("static/fonts/Inter-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+        }
+
+@font-face {
+    font-family: "Inter-Regular";  
+    src: url("static/fonts/Inter-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+        }
+
 .page{
     max-width: 1440px;
     margin-left: auto;
@@ -9,6 +37,7 @@ button:hover {
     color: #fff; /* Цвет текста */
     background: #499A18; /* Цвет фона */
 }
+
 .conteiner-fon0{
 margin-top: -10px;
    display: flex;
@@ -84,13 +113,18 @@ margin-top: -10px;
 }
 
 .stroke-sky{
+    
     display:inline-block;
+    text-decoration: none;
     margin-left: 23px;
     margin-right: 22px;
     padding-top: 2.5px;
     font-size: 16px;
     color: black;
     font-family: Inika, Courier, monospace;  
+}
+.stroke-sky:hover{
+color:#E06733; 
 }
 
 .stroke-learn{
@@ -334,6 +368,7 @@ p{
     font-family: Inter, Arial, sans-serif;
 } 
 .conteiner-link {
+    list-style-type: none;
    padding-left: -10px;
     display:flex;
     margin-top: 10px;
@@ -374,18 +409,22 @@ p{
 
 .text_center_orange{
     text-align: center;
-    padding-top: 11px;
     font-weight: bold;
-    font-size: 20px;
-    color:#E06733;
     font-family: Inika, Courier, monospace;   
     font-weight: lighter;
+    font-size: 20px;
+    color:#E06733;  
+   
+       
+ 
+    
 }
 
 .text_center_orange:hover {
     background-color: #E06733;
     color: white;
     cursor: pointer;
+    
   }
 
 
@@ -393,24 +432,31 @@ p{
     margin-top: 67px;
     margin-left: 20px;
     margin-right: 21px;
-    width: 159px;
-    height: 36px;
+    width: 161px;
+    height: 50px;
+    align-items: center;
+  justify-content: center;
+    
     border-radius: 5px;
     border: solid 1px #E06733;
     transition-duration: 0.4s;
     cursor: pointer;
+    background-color: #EDF2EC;
 }
 .fig6{
+    align-items: center;
+    justify-content: center;
     margin-top: -3px;
     margin-bottom: 40px;
     margin-left: 30px;
     margin-right: 0px;
-    width: 160px;
-    height: 35px;
+    width: 161px;
+    height: 50px;
     border-radius: 5px;
     border: solid 1px #E06733;
     transition-duration: 0.4s;
     cursor: pointer;
+    background-color: #ffffff;
 }
 
 .img-fon4{
@@ -596,18 +642,41 @@ padding-top: 22px;
 }
 
 .img-fon6-1{
+    display: flex;
     padding-top: 12px;
     margin-left: -40px;
+    list-style-type: none;
     }
 
 .img-padding-fon6{
 padding-right: 23px;
+font-weight: lighter;
     }
 
- 
+ .img-padding-fon6-1{
+    padding-right: 23px;
+   font-weight: lighter;
+  }
+
+.links{    
+    transition: 1s;  
+  }
+   
+.links:hover {
+    transform: scale(1.2); 
+   }
 .text-link{
-        padding-top: 70px;
-        font-size: 20px;
-        color:#000000;
+    text-decoration: none;
+    padding-top: 18px;
+    font-size: 20px;
+    color:#000000;
     font-family: Inter, Arial, sans-serif;
-    }
+    transition: 1s; 
+  
+}
+.text-link:hover {
+    transform: scale(1.2); 
+    color: #499A18; 
+}
+
+
